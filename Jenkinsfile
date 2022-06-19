@@ -2,7 +2,7 @@ pipeline {
 	    agent any
 	
 
-	        // Environment testinggg Variables
+	        // Environment testinggggg Variables
 	        environment {
 	        MAJOR = '1'
 	        MINOR = '0'
